@@ -26,7 +26,7 @@ Make sure you install the required cryptography package first:
 pip install cryptography
 ```
 Then download the script files and run the Python file:
-```bash
+```
 python Encrypter.py
 ```
 Make sure you filter your search bar to ```Show Hidden``` if the file does not show up near your download or stored folder.
