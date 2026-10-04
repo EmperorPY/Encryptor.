@@ -28,7 +28,7 @@ cipher = Fernet(key)
 
 # 2. Encryption Loop
 while True:
-    print("\n---------------\nENCRYPTION MENU---------------\nType quit to enter the next menu")
+    print("\n---------------\nENCRYPTION MENU\n---------------\nType quit to enter the next menu")
     website = input("Enter the website name:\n").strip()
     if website.lower() == "quit":
         break
