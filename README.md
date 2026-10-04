@@ -29,6 +29,7 @@ Then download the script files and run the Python file:
 ```bash
 python Encrypter.py
 ```
+Make sure you filter your search bar to ```Show Hidden``` if the file does not show up near your download or stored folder.
 
 **Made with**
 
@@ -38,4 +39,4 @@ Python.
 
 * Implement a `.gitignore` system to protect secret key configurations from being pushed online.
 * A remove website/password feature.
-* Build a master login phase using password derivation equations so the script relies on a memorable phrase aswell as a heavy raw file token.
+* Build a master login phase using a predicided password you must remeber so the script relies on a memorable phrase aswell as a heavy raw file token.
