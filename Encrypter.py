@@ -1,6 +1,5 @@
 from cryptography.fernet import Fernet
-import os
-import subprocess
+import os    
 import time
 
 #FORCE PYTHON TO USE THE SCRIPT'S ACTUAL FOLDER
